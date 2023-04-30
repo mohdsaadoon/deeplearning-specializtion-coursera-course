@@ -1,4 +1,4 @@
-### Hi there 👋, Deep Learning Specialization: Practical Example Notebooks
+### Deep Learning Specialization: Practical Example Notebooks
 #### Being a Deep Learning practitioner is not about technology. It's about solving real word problems and positively impacting society.
 
 This repository contains Jupyter notebooks for the practical example in the first course of the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/) on Coursera. The practical example involves building a deep neural network to recognize images of cats, culminating in a final project where you'll build a complete image recognition system.
