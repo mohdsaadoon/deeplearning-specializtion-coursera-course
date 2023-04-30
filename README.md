@@ -1,7 +1,7 @@
-### Deep Learning Specialization: Practical Example Notebooks
+### Deep Learning Specialization Programming Assignments - DeepLearning.AI 
 #### Being a Deep Learning practitioner is not about technology. It's about solving real word problems and positively impacting society.
-
-This repository contains my work for the practical example in the first course of the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/) on Coursera. The practical example involves building a deep neural network to recognize images of cats, culminating in a final project where you'll build a complete image recognition system.
+---
+This repository contains my work for the programming assignments in the first course of the Deep Learning Specialization by [Andrew Ng](https://www.andrewng.org/) on Coursera. The programming assignments involves building a deep neural network to recognize images of cats, culminating in a final project where you'll build a complete image recognition system.
 
 The notebooks in this repository follow the same structure as the course, covering topics such as neural network architecture, backpropagation, optimization, and regularization. Each notebook includes detailed explanations, code examples, and exercises to help you build your understanding of deep learning and apply it to the practical example.
 
